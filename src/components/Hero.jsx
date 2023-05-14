@@ -17,8 +17,10 @@ const Hero = () => {
         </h1>
 
         <h2 className='desc'>
-            
+        You can finally say goodbye to those long and tedious articles - and hello to more time for fun stuff, like binge-watching Netflix and eating pizza. 
         </h2>
+
+        
     </header>
   )
 }
