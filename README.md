@@ -24,5 +24,5 @@ Used the [Article Extractor and Summarizer API](https://rapidapi.com/restyler/ap
 
 #### Learnings
 
-I gained expertise in making advanced RTK query API requests that are conditional, meaning they only fire under specific circumstances. I also learned how to save application history using local storage, which is an important feature for many applications. Other skills I developed while building this application include handling form events and catching errors, implementing copy to clipboard functionality, and writing clean code. Overall, this project provided me with a broad range of practical skills that will serve me well in future development work.
+I gained expertise in making advanced RTK query API requests that are conditional, meaning they only fire under specific circumstances. I also learned how to save application history using local storage, which is an important feature for many applications. Other skills I developed while building this application include handling form events and catching errors, implementing copy to clipboard functionality, and writing clean code. Overall, this project provided me with a broad range of practical skills that will serve me well in future development work
 
